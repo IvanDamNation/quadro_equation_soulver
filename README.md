@@ -1,7 +1,10 @@
 # Quadro equation soulver
 
-Program can find solutions (roots) for quadratic equations
-Can be used as module or a standalone program
+Features:
+
+1. Program can find solutions (roots) for quadratic equations (Equation blank: a*x**2 + b*x + c = 0).
+2. Can be used as module or a standalone program.
+3. For newcomers in programming every function have documentation.
 
 Use "calculate" for all calculation, "calc_discriminant" for
 discriminant calculation only or "get_roots" if you know
